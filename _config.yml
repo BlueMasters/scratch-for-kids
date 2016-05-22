@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Bienvenue à notre petit atelier pour apprendre à programmer avec Scratch!
 baseurl: /scratch-for-kids/ # the subpath of your site, e.g. /blog
 url: http://bluemasters.github.io/ # the base hostname & protocol for your site
-github_username:  bluemasters
+github_username: bluemasters
 version: 0.1
 
 # Build settings
