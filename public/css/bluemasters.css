@@ -1,0 +1,56 @@
+body {
+    text-align: justify;
+}
+
+.sidebar-about .lead{
+    font-size: 1em;
+}
+
+body div.sidebar a:hover,
+body div.sidebar a:focus,
+a:hover, a:focus {
+  text-decoration: none !important;
+  color: #2F6E89 !important;
+}
+
+.page-title {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #6a9fb5;
+}
+
+p.copyright {
+    font-size: .9em;
+}
+.version {
+    font-size: .6em;
+    font-style: italic;
+}
+
+.sidebar-nav-item.active::before {
+  content: " >> ";
+}
+.sidebar-nav-item.active::after {
+  content: " << ";
+}
+
+.post-list {
+    list-style: none;
+    padding-left: 30px;
+    border-left: 4px solid #eee;
+}
+.post-list > li {
+    margin-bottom: 13px;
+}
+
+.post-list .post-title {
+    font-size: 1.5em;
+}
+
+.post-meta {
+    font-style: italic;
+    font-size: .8em;
+    color: #777;
+}
+
+
+/* Blue theme links darker */
