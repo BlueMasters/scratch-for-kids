@@ -1,5 +1,5 @@
 ---
-layout: tutos
+layout: tuto
 title: Fais du sport!
 order: 10
 tags:
