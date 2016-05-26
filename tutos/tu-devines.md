@@ -11,7 +11,7 @@ Le but est de deviné le nombre choisi par le cheval avant qu'il passe la barre 
 
 ![course]({{ site.baseurl }}/media/tudevines.png)
 
-Commence par faire une copie du [projet de base](https://scratch.mit.edu/).
+Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/111400517/).
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 
