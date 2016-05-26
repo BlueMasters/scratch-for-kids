@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: tuto
 title: Je devine un nombre
+order: 30
 tags:
 - moyen
 ---
