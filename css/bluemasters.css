@@ -52,5 +52,9 @@ p.copyright {
     color: #777;
 }
 
+img{
+    display: block;
+    margin:auto;
+}
 
 /* Blue theme links darker */

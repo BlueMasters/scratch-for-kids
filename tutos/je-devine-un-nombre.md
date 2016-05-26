@@ -22,7 +22,7 @@ Clique ensuite sur le bouton «Voir à l'intérieur»:
 
 fais une copie dans ton espace de travail en cliquant sur «remix»:
 
-![remix]({{ site.baseurl }}media/remix.png)
+![remix]({{ site.baseurl }}/media/remix.png)
 
 Nous avons déjà écrit les scripts des boutons pour toi. Il te reste à
 écrire le script de la magicienne.
