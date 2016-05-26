@@ -2,31 +2,33 @@
 layout: page
 title: À propos
 order: 10
-type: menu-page
 ---
 
+
+# Qui nous sommes 
+
+__Les BlueMasters__ est un petit groupe de passionnés d'informatique dont le leit-motiv se résume à _s'amuser et transmettre sa passion_. 
+
+![avatar]({{site.baseurl}}/media/avatar.png)
+
+Depuis maintenant plus d'une année, nous organisons de nombreux ateliers pour les enfants, au-travers d'associations telles que le [bluemagic club](http://www.bluemagic.club/fr) et le [passeport vacances](http://www.passeport-vacances-fribourg.ch/) de Fribourg. Nous organisons également et prenons part à divers  événements pour dévelopeurs et passionnés d'informatique, parmi eux la Google I/O ou le [FROSC](https://www.frosc.ch/).
+
+
+# Nos membres
+
+###  Damien Goetschi
+
+Damien Goetschi est un jeune prodige de l'informatique. Actuellement en Master d'ingénieur en informatique, il travaille également à 50% comme collaborateur à la Haute école d'ingénierie et d'architecture de Fribourg. Durant ses heures creuses, qui ne sont pas très nombreuses, il s'adonne avec plaisir à l'équitation et aux streams de jeux vidéos. Il ne loupera jamais un concert d'Indochine et rêve d'une licorne comme animal de compagnie.
+
+
+### Jacques Supcik
+
+Après plus de dix ans d'une carrière fructueuse à Swisscom, Jacques décide de quitter le privé pour se livrer entièrement à se qui l'anime réellement: le contact avec les jeunes et la stimulation des esprits. Cela fait maintenant trois ans qui'il est un professeur aimé et respecté de la Haute école d'ingénierie et d'architecture de Fribourg. Dans son bureau trônent un nombre inimaginable de gadgets, Arduinos et circuits imprimés. Même l'ouverture de son garage est contrôlée par un petit mécanisme développé entre deux cours. Besoin de Durgol, d'un feu rouge ou d'un adaptateur improbable ? Passez au C10.05, il saura vous dépanner. 
+
+Mari et professeur, Jacques a pourtant su rester un grand enfant. C'est avec les yeux brillants qu'il joue au rubik's cube, promène son cheval le dimanche ou exhibe son magnifique vélo électrique.
+ 
+ 
+ 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
