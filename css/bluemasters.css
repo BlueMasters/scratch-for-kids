@@ -33,24 +33,28 @@ p.copyright {
   content: " << ";
 }
 
-.post-list {
+.tutos-list {
     list-style: none;
     padding-left: 30px;
     border-left: 4px solid #eee;
 }
-.post-list > li {
+.tutos-list > li {
     margin-bottom: 13px;
 }
 
-.post-list .post-title {
+.tutos-list .post-title {
     font-size: 1.5em;
 }
 
-.post-meta {
+.tuto-meta {
     font-style: italic;
     font-size: .8em;
     color: #777;
 }
 
+img{
+    display: block;
+    margin:auto;
+}
 
 /* Blue theme links darker */

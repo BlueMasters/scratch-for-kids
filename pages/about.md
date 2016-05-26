@@ -2,6 +2,7 @@
 layout: page
 title: À propos
 order: 10
+type: menu-page
 ---
 
 <p class="message">

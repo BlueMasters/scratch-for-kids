@@ -2,6 +2,7 @@
 layout: page
 title: "Scratch... kezaco ?"
 order: 1
+type: menu-page
 ---
 
 
