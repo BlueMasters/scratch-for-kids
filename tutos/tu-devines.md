@@ -9,7 +9,7 @@ tags:
 Pour devenir une licorne, le cheval doit devenir intelligent en te faisant deviner un nombre.
 Le but est de deviné le nombre choisi par le cheval avant qu'il passe la barre rouge.
 
-![course]({{ site.baseurl }}/media/tudevines.png)
+![devine]({{ site.baseurl }}/media/tudevines.png)
 
 Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/111400517/).
 
@@ -23,15 +23,15 @@ fais une copie dans ton espace de travail en cliquant sur «remix»:
 
 Pour que le cheval te fasse deviner un nombre, ajoute le code à l'interieur du bloc «répéter 8 fois».
 
-![]({{ site.baseurl }}/media/tudevines_start.png)
+![devine]({{ site.baseurl }}/media/tudevines_start.png)
 
 Un bloc supplémentaire «avance» à été ajouté pour faire avancer le cheval après une proposition incorrecte.
 
-![course]({{ site.baseurl }}/media/tudevines_bloc_avance.png)
+![devine]({{ site.baseurl }}/media/tudevines_bloc_avance.png)
 
 Tu pourras le retrouver dans la catégorie «Ajouter blocs».
 
-![course]({{ site.baseurl }}/media/tudevines_ajouter_blocs.png)
+![devine]({{ site.baseurl }}/media/tudevines_ajouter_blocs.png)
 
 
 **Bonne chance sur le parcours de la licorne.**
