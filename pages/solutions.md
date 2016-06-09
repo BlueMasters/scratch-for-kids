@@ -1,6 +1,6 @@
 ---
 layout: page
-title: solutions
+title: Solutions
 order: 3
 ---
 

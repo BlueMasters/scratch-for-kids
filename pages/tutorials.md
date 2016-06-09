@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutoriels
+title: Tutoriels
 order: 2
 ---
 
