@@ -2,6 +2,8 @@
 layout: tuto
 title: Fais du sport!
 order: 10
+starter_kit: https://scratch.mit.edu/projects/109863098/
+solution: https://scratch.mit.edu/projects/110827097/
 tags:
 - facile
 - premiers pas
@@ -14,7 +16,7 @@ Le but est de traverser le terrain de sport le plus vite possible en
 
 ![course]({{ site.baseurl }}/media/course.png)
 
-Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/109863098/).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}).
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 

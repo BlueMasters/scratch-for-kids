@@ -2,6 +2,8 @@
 layout: tuto
 order: 20
 title: Tu devines le nombre
+starter_kit: https://scratch.mit.edu/projects/111400517/
+solution: https://scratch.mit.edu/projects/109830439/
 tags:
 - moyen
 ---
@@ -11,7 +13,7 @@ Le but est de deviné le nombre choisi par le cheval avant qu'il passe la barre 
 
 ![devine]({{ site.baseurl }}/media/tudevines.png)
 
-Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/111400517/).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}).
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 

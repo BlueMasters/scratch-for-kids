@@ -2,6 +2,8 @@
 layout: tuto
 title: Je devine un nombre
 order: 30
+starter_kit: https://scratch.mit.edu/projects/111400103/
+solution: https://scratch.mit.edu/projects/109856566/
 tags:
 - moyen
 ---
@@ -14,7 +16,7 @@ tu penses.
 
 ![je-devine]({{ site.baseurl }}/media/je-devine.png)
 
-Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/111400103/).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}).
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 

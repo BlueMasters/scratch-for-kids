@@ -2,6 +2,8 @@
 layout: tuto
 order: 40
 title: Flappy Licorne
+starter_kit: https://scratch.mit.edu/projects/111411334
+solution: https://scratch.mit.edu/projects/109856256/
 tags:
 - difficile
 ---
@@ -10,7 +12,7 @@ La licorne doit maintenant voler à travers le ciel en cassant le plus de ballon
 
 ![flappy]({{ site.baseurl }}/media/flappy.png)
 
-Commence par faire une copie du [projet de base](https://scratch.mit.edu/projects/111411334/).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}).
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 
