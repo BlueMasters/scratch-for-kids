@@ -2,6 +2,16 @@ body {
     text-align: justify;
 }
 
+/* blue */
+.theme-bm .sidebar {
+  background-color: #0085ed;
+}
+.theme-bm .content a,
+.theme-bm .related-posts li a:hover {
+  color: #0085ed;
+}
+
+
 .sidebar-about .lead{
     font-size: 1em;
 }
@@ -10,12 +20,12 @@ body div.sidebar a:hover,
 body div.sidebar a:focus,
 a:hover, a:focus {
   text-decoration: none !important;
-  color: #2F6E89 !important;
+  color: #FFC720 !important;
 }
 
 .page-title {
     font-family: 'Gloria Hallelujah', cursive;
-    color: #6a9fb5;
+    color: #0085ed;
 }
 
 p.copyright {
@@ -55,6 +65,10 @@ p.copyright {
 img{
     display: block;
     margin:auto;
+}
+
+img.licorne {
+    max-width: 60vh;
 }
 
 /* Blue theme links darker */
