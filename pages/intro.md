@@ -4,17 +4,44 @@ title: "Scratch... kezaco ?"
 order: 1
 ---
 
-
 # Qu'est-ce que la programmation ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget mauris a tortor luctus fermentum. Proin suscipit consectetur ipsum vel egestas. Morbi molestie nunc ut magna rhoncus scelerisque. Aliquam non lacus urna. Vestibulum feugiat quis sapien condimentum mattis. Cras lobortis egestas mauris ac convallis. Aenean erat metus, auctor non mauris ac, tincidunt aliquam augue. Pellentesque ornare, turpis in vulputate mollis, nunc erat eleifend odio, convallis posuere ante risus vitae tellus. Nullam porta cursus turpis, ut bibendum ligula vehicula ut. Aliquam vitae ex et velit suscipit consequat. Aliquam dapibus tincidunt elit et convallis. Vestibulum posuere tincidunt nisl, ut vehicula nulla venenatis ut. Vivamus non felis sed dolor eleifend congue. Donec at dictum elit.
+La programmation c'est l'art de donner des instructions à une machine pour
+qu'elle fasse ce qu'on veut. Pour donner ces instructions, les
+programmeurs utilisent normalement un langage spécial. Pour les personnes
+non initiées, ça semble très compliqué, mais pour les programmeurs c'est
+facile. C'est un peu comme une langue étrangère; si vous ne comprenez pas
+l'allemand, la phrase «Wer will, der kann» ne vous dira rien, mais pour
+un germanophone
+[c'est facile](https://translate.google.com/#de/fr/Wer%20will%2C%20der%20kann).
 
-Sed at feugiat nisi, ut dapibus lacus. In consectetur condimentum nunc, et mattis sem gravida id. Cras at sem dictum, euismod tellus in, laoreet turpis. Nullam fringilla augue vel feugiat sodales. Nunc mollis blandit ipsum, a semper ligula lacinia vitae. Fusce pretium scelerisque risus, vitae ornare justo. Cras molestie turpis quis urna blandit luctus. Vestibulum scelerisque tempus erat at sollicitudin.
+Il existe tout plein de langages de programmation et vous avez peut-être
+déjà entendu un nom comme «Java», «JavaScript», «C», «Python», «PHP»,
+ou «Pascal». Mais la programmation ne doit pas forcément se faire dans
+la douleur, avec des langages de programmation difficile à apprendre. Dans
+les ateliers présentés dans ce site, vous utiliserez «Scratch» et vous
+utiliserez simplement des images à la place des mots.
 
-# Comment utiliser le site ?
+Vous verrez que la programmation est une activité amusante et qui développe
+tout plein de bonnes capacités. Si vous savez programmer, alors vous
+saurez expliquer les choses plus clairement et vous saurez résoudre tout
+un tas de problèmes plus facilement. Vous serez un
+[«hacker»](https://fr.wikipedia.org/wiki/Hacker_(programmation))
+dans le bon sens du terme.
 
-Praesent libero urna, accumsan vel purus quis, molestie dictum sapien. Nulla ornare, magna in ullamcorper dapibus, nisl odio bibendum nunc, a pretium magna nisi sagittis velit. Praesent lectus dolor, mollis non pulvinar eu, vestibulum sed velit. Phasellus ac magna a felis sollicitudin mattis. Ut interdum mollis urna ut viverra. Fusce ut facilisis turpis. Integer nec rutrum urna, quis efficitur quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed dignissim venenatis orci id faucibus. Duis posuere tellus a metus facilisis varius. Cras eros purus, imperdiet id molestie ac, pretium eu mauris. Nunc in ullamcorper sapien. Praesent sodales est et dictum laoreet. Maecenas commodo dui ex, a convallis augue dictum non. Donec egestas pulvinar lorem, et eleifend enim semper a. Nunc vehicula, quam in mattis bibendum, erat ante volutpat orci, vitae auctor tortor urna vitae purus.
+# Qu'est-ce que Scratch ?
 
-Donec id diam pretium, fringilla est non, luctus odio. Integer magna neque, iaculis et ante et, volutpat interdum est. Integer ligula est, fermentum tempor semper ac, fermentum sit amet ipsum. Integer dignissim nibh nec vestibulum vulputate. Fusce at mauris ac neque luctus consequat in at elit. Donec faucibus elit consectetur nisi accumsan rhoncus. Vivamus sem justo, faucibus ut ante in, ullamcorper auctor orci. Integer sit amet nisl eget elit maximus venenatis eu sit amet lectus. Aenean quis nulla eu mauris elementum dignissim convallis fringilla lacus. In non massa scelerisque, vestibulum purus vitae, scelerisque elit. Etiam tempus lacus sed est facilisis, et dictum magna sollicitudin. Donec sodales mi a dolor fermentum, ut vulputate libero fermentum.
+[Scratch](https://scratch.mit.edu/) est un langage de programmation principalement destiné aux enfants.
+Il utilise des images à la place de code difficile à retenir (et souvent
+en anglais). Scratch à été inventé en 2002 par un professeur de la prestigieuse
+université américaine «MIT».
 
-Fusce in maximus tortor. Donec enim justo, aliquam id congue a, egestas et quam. Vivamus a ultrices metus. Vestibulum iaculis elit eget tortor ultricies, eget congue diam euismod. Suspendisse potenti. Proin mauris quam, consequat maximus rutrum eu, pellentesque eu nisi. Maecenas posuere pellentesque nibh, et fringilla erat rutrum eu. Duis vitae scelerisque arcu.
+Scratch permet de réaliser facilement des histoires animées, des jeux, ou des
+oeuvres d'art interactives. Il est utilisable directement depuis un navigateur
+web, fonctionne avec la plupart des ordinateurs et ne nécessite aucune
+installation. Il est traduit dans plus de 60 langues, il compte plus de
+12 millions d'utilisateurs enregistrés et il offre plus de 14 millions de
+projets qui peuvent servir d'inspiration à vos nouvelles créations.
+
+Au cours de ces ateliers, vous allez apprendre à utiliser Scratch et nous
+nous réjouissons de voir ce que vous allez créer avec ce magnifique outil.
