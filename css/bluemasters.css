@@ -28,6 +28,11 @@ a:hover, a:focus {
     color: #0085ed;
 }
 
+.license {
+    padding-top: 3em;
+    font-size: .6em;
+}
+
 p.copyright {
     font-size: .9em;
 }
