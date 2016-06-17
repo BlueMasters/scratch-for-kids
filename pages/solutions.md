@@ -17,7 +17,7 @@ Tu trouveras la __solution__ des exercices en cliquant sur les liens suivants:
       <li>
         <div class="tuto-meta">{{ page.tags | join:", " }}</div>
         <div class="tuto-title">
-          <a class="tuto-link" href="{{ page.solution }}">{{ page.title }}</a>
+          <a class="tuto-link" href="{{ page.solution }}" target="_blank">{{ page.title }}</a>
         </div>
       </li>
     {% endfor %}
@@ -27,7 +27,7 @@ Nous mettons aussi à disposition __quelques exemples de jeux et programmes__ si
 <ul class="tutos-list">
       <li>
         <div class="tuto-title">
-          <a class="tuto-link" href="https://scratch.mit.edu/projects/110392842/">poulpofolie</a>
+          <a class="tuto-link" href="https://scratch.mit.edu/projects/110392842/" target="_blank">poulpofolie</a>
         </div>
       </li>
   </ul>

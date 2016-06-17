@@ -16,7 +16,7 @@ Le but est de traverser le terrain de sport le plus vite possible en
 
 ![course]({{ site.baseurl }}/media/course.png)
 
-Commence par faire une copie du [projet de base]({{page.starter_kit}}).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}){:target="_blank"}.
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 

@@ -13,7 +13,7 @@ Le but est de deviné le nombre choisi par le cheval avant qu'il passe la barre 
 
 ![devine]({{ site.baseurl }}/media/tudevines.png)
 
-Commence par faire une copie du [projet de base]({{page.starter_kit}}).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}){:target="_blank"}.
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 

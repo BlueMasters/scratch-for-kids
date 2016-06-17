@@ -12,7 +12,7 @@ La licorne doit maintenant voler à travers le ciel en cassant le plus de ballon
 
 ![flappy]({{ site.baseurl }}/media/flappy.png)
 
-Commence par faire une copie du [projet de base]({{page.starter_kit}}).
+Commence par faire une copie du [projet de base]({{page.starter_kit}}){:target="_blank"}.
 
 Clique ensuite sur le bouton «Voir à l'intérieur»:
 
