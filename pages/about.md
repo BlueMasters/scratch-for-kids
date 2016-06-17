@@ -7,7 +7,7 @@ order: 10
 
 # Qui nous sommes
 
-__Les BlueMasters__ est un petit groupe de passionnés d'informatique dont le leit-motiv se résume à _s'amuser et transmettre sa passion_.
+__Les BlueMasters__ est un petit groupe de passionnés d'informatique dont le leitmotiv se résume à _s'amuser et transmettre sa passion_.
 
 ![avatar]({{site.baseurl}}/media/avatar.png)
 
@@ -34,11 +34,6 @@ Damien Goetschi est un jeune prodige de l'informatique. Actuellement en Master d
 
 ### Jacques Supcik
 
-Après plus de dix ans d'une carrière fructueuse à Swisscom, Jacques décide de quitter le privé pour se livrer entièrement à se qui l'anime réellement: le contact avec les jeunes et la stimulation des esprits. Cela fait maintenant trois ans qui'il est un professeur aimé et respecté de la Haute école d'ingénierie et d'architecture de Fribourg. Dans son bureau trônent un nombre inimaginable de gadgets, Arduinos et circuits imprimés. Même l'ouverture de son garage est contrôlée par un petit mécanisme développé entre deux cours. Besoin de Durgol, d'un feu rouge ou d'un adaptateur improbable ? Passez au C10.05, il saura vous dépanner.
+Après plus de dix ans d'une carrière fructueuse à Swisscom, Jacques décide de quitter le privé pour se livrer entièrement à ce qui l'anime réellement: le contact avec les jeunes et la stimulation des esprits. Cela fait maintenant trois ans qui'il est un professeur aimé et respecté de la Haute école d'ingénierie et d'architecture de Fribourg. Dans son bureau trônent un nombre inimaginable de gadgets, Arduinos et circuits imprimés. Même l'ouverture de son garage est contrôlée par un petit mécanisme développé entre deux cours. Besoin de Durgol, d'un feu rouge ou d'un adaptateur improbable ? Passez au C10.05, il saura vous dépanner.
 
-Mari et professeur, Jacques a pourtant su rester un grand enfant. C'est avec les yeux brillants qu'il joue au rubik's cube, promène son cheval le dimanche ou exhibe son magnifique vélo électrique.
-
-
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Mari et professeur, Jacques a pourtant su rester un grand enfant. C'est avec les yeux brillants qu'il joue au Rubik's cube, promène son cheval le dimanche ou exhibe son magnifique vélo électrique.
