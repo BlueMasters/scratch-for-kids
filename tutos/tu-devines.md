@@ -9,7 +9,7 @@ tags:
 ---
 
 Pour devenir une licorne, le cheval doit devenir intelligent en te faisant deviner un nombre.
-Le but est de deviné le nombre choisi par le cheval avant qu'il passe la barre rouge.
+Le but est de deviner le nombre choisi par le cheval avant qu'il passe la barre rouge.
 
 ![devine]({{ site.baseurl }}/media/tudevines.png)
 
